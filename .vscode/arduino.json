@@ -1,0 +1,5 @@
+{
+    "sketch": "SerialPassthrough.ino",
+    "port": "/dev/tty.SLAB_USBtoUART",
+    "board": "LinkIt:linkit_rtos:linkit_7697"
+}
