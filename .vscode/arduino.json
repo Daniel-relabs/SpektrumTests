@@ -1,5 +1,6 @@
 {
     "sketch": "SpektrumSerial.ino",
-    "port": "/dev/cu.SLAB_USBtoUART",
-    "board": "LinkIt:linkit_rtos:linkit_7697"
+    "board": "Heltec-esp32:esp32:wifi_kit_32",
+    "configuration": "PSRAM=enabled,CPUFreq=240,UploadSpeed=921600,DebugLevel=verbose",
+    "port": "/dev/cu.SLAB_USBtoUART"
 }
